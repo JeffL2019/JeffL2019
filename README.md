@@ -15,7 +15,6 @@
 ## Currently working on
 
 * Time complexity optimization for matrix multiplcation
-* Exoplanet detection from dips in brightness from stellar objects
 
 ## Tech Stack
 
