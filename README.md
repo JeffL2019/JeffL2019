@@ -15,6 +15,7 @@
 ## Currently working on
 
 * Time complexity optimization for matrix multiplcation
+* Differential Privacy - Stochastic Gradient Descent
 
 ## Tech Stack
 
