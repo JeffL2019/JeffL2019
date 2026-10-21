@@ -15,7 +15,7 @@
 ## Currently working on
 
 * Time complexity optimization for matrix multiplcation
-* Differential Privacy - Stochastic Gradient Descent
+* Replicating IterL2Norm: Fast Iterative L2-Normalization Paper
 
 ## Tech Stack
 
