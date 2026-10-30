@@ -15,6 +15,7 @@
 ## Currently working on
 
 * Time complexity optimization for matrix multiplcation
+   * Leveraging OpenMP and MPI
 * Replicating IterL2Norm: Fast Iterative L2-Normalization Paper
 
 ## Tech Stack
